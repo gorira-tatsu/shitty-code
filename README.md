@@ -13,3 +13,4 @@
 いやそこで暗算すればええやんって話だが給料がいくらもらえるかを計算してくれる。時給から日、月、年に対応し計算してくれる。月は平均30日くらいだと思うので（偏見）30日に設定している。つまりいらない。
 
 
+![kyuuryou](https://github.com/gorira-tatsu/shitty-code/blob/master/image/kyuuryou.png)
