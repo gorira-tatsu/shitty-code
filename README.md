@@ -14,3 +14,9 @@
 
 
 ![kyuuryou](https://github.com/gorira-tatsu/shitty-code/blob/master/image/kyuuryou.png)
+
+## fizzbuzz.py
+かの有名なfizzbuzzです。超初心者の時は3日かかったんですけど今回は20分くらいでかけました。ふぅー。
+
+![fizzbuzz](https://github.com/gorira-tatsu/shitty-code/blob/master/image/fizzbuzz.png)
+
