@@ -1,16 +1,12 @@
 heikinlist = []
-d = 0
-e = 0
+s = 0
 while True:
-    a = input()
-    if not a:
-        b = len(heikinlist)
-        for j in range(b):
-            c = heikinlist[d]
-            e = c + e
-            d = d + 1
-        e = e / d
-        print(e)
+    k = input()
+    if not k:
+        l = len(heikinlist)
+        for i in range(l):
+            s = s + heikinlist[i]
+        print(s/l)
         break
     else:
-        heikinlist.append(int(a))
+        heikinlist.append(int(k))
